@@ -14,7 +14,8 @@ a {
 
 .Hero {
   background-color: #FF6F57;
-  background: linear-gradient(to right, #6190e8, #a7bfe8);
+  /*background: linear-gradient(to right, #6190e8, #a7bfe8);*/
+  background-image: url("../images/wallpaper.vanessa.jpg");
   height: 920px;
   background-size: cover;
 }
